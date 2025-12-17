@@ -21,7 +21,7 @@ MakeCode でこのリポジトリを編集します。
 
 ...
 
-* [チュートリアル](/pxt-my-an/tutorial) [開始](https://makecode.microbit.org/#tutorial:github:nbstt/pxt-my-an/tutorial)
+* [チュートリアル](/pxt-my-an/tutorial) [開始](https://makecode.microbit.org/#tutorial:github:NBSTT/pxt-my-an/tutorial)
 
 ...
 
